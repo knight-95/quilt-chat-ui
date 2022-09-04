@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4519853.css",
+    "main.js": "/static/js/main.6b1e952a.js",
+    "static/js/787.224a204d.chunk.js": "/static/js/787.224a204d.chunk.js",
+    "static/media/addFriend.svg": "/static/media/addFriend.98cf3e850bfacd92a21762d94c3e502a.svg",
+    "static/media/settings2.svg": "/static/media/settings2.80f775d71469eed06598.svg",
+    "static/media/settings.svg": "/static/media/settings.3b0edd7936383517d25bdb46c9802994.svg",
+    "static/media/Logo.svg": "/static/media/Logo.60f3ea871410ec65bdbe162fe42c381e.svg",
+    "static/media/messages2.svg": "/static/media/messages2.3ae8c4168396cb6fe893.svg",
+    "static/media/group.svg": "/static/media/group.6bb95c9c8a30670c3380.svg",
+    "static/media/group2.svg": "/static/media/group2.67a59c6eff1e2de8276310ad4a0dce74.svg",
+    "static/media/addFriend2.svg": "/static/media/addFriend2.8569c0bb6b032edea8bc.svg",
+    "index.html": "/index.html",
+    "static/media/Messages.svg": "/static/media/Messages.85ef1a448d9b4fc699b5f4416032d776.svg",
+    "main.d4519853.css.map": "/static/css/main.d4519853.css.map",
+    "main.6b1e952a.js.map": "/static/js/main.6b1e952a.js.map",
+    "787.224a204d.chunk.js.map": "/static/js/787.224a204d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4519853.css",
+    "static/js/main.6b1e952a.js"
+  ]
+}
